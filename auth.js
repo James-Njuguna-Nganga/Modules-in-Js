@@ -11,5 +11,6 @@ function authenticateUser(username, password) {
 
 module.exports = {
     addUser,
-    authenticateUser
+    authenticateUser,
+    users
 }
