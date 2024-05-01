@@ -1,4 +1,4 @@
-  # A SIMPLE E-Commerce Application
+  # A SIMPLE E-Commerce project to show modules concept in Javascript
 
 This is a simple e-commerce application built with Node.js. It allows users to add products, place orders, and manage user authentication and roles.
 
