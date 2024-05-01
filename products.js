@@ -1,13 +1,14 @@
 
 const products = [];
 
-function addProduct(name, price) {
+const addProduct = (name, price) => {
     products.push({ name, price });
-}
+};
 
-function getAllProducts() {
+const getAllProducts = () => {
     return products;
-}
+};
+
 
 module.exports = {
     addProduct,

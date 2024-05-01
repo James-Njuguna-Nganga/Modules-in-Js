@@ -13,7 +13,7 @@ addProduct("fridge",15000);
 // Place orders
 placeOrder("Laptop", 2);
 placeOrder("Phone", 3);
-placeOrder("TV", 5);
+placeOrder("TV", 10);
 
 
 //Add users

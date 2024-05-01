@@ -1,13 +1,13 @@
 
 const userRoles = {};
 
-function setUserRole(username, role) {
+const setUserRole = (username, role) => {
     userRoles[username] = role;
-}
+};
 
-function getUserRole(username) {
+const getUserRole = (username) => {
     return userRoles[username];
-}
+};
 
 module.exports = {
     setUserRole,
