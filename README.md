@@ -15,7 +15,7 @@ This is a simple e-commerce application built with Node.js. It allows users to a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jimmie-code/Modules-in-Js/tree/master
+git clone https://github.com/jimmie-code/Modules-in-Js
 
 Install dependencies:
 npm install
